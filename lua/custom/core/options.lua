@@ -15,3 +15,5 @@ vim.opt.wrap = false
 -- open new panes right
 vim.opt.splitright = true
 vim.opt.splitbelow = true
+
+vim.g.lazyvim_eslint_auto_format = true
